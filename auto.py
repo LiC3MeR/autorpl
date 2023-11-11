@@ -31,7 +31,7 @@ rpl
 
 
 # Выполняем замену
-rng = len(replace)
+rng = len(rpl)
 rng
 
 for i in range(rng):
